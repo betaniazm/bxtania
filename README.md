@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bety
-- :) I like to skate, and I'm christian
+- :) I like to skate
 - 👀 I’m interested in anything cybersecurity
 - 🌱 I’m currently learning javascript and C++
 
