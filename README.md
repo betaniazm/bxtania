@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Bety
-- :) I like to skate
-- 👀 I’m interested in anything cybersecurity
-- 🌱 I’m currently learning javascript and C++
+- 👋
 
 <!---
 bxtania/bxtania is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
